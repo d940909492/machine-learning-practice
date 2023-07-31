@@ -41,6 +41,7 @@ def grad_step(m, fdata, learning_rate):
     temp_m = m
     temp_m = temp_m - learning_rate * (1/num_ex) * np.dot(pred.T, fdata).T
     m = temp_m
+    return m
 
 def hyp(fdata, m):
     pred = np.dot(fdata,m)
