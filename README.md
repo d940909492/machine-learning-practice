@@ -7,3 +7,11 @@
 
 ### Logistic_Regression:
 ![NOTE!](some_img/log_reg.PNG)
+
+### Kmeans and dbscan:
+![NOTE!](some_img/kmeans.PNG)
+
+![NOTE!](some_img/dbscan.PNG)
+
+### Decision_Tree:
+![NOTE!](some_img/decision_tree.PNG)
