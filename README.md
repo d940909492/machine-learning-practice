@@ -15,3 +15,6 @@
 
 ### Decision_Tree:
 ![NOTE!](some_img/decision_tree.PNG)
+
+### Bagging:
+![NOTE!](some_img/bagging.PNG)
