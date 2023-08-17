@@ -18,3 +18,13 @@
 
 ### Bagging:
 ![NOTE!](some_img/bagging.PNG)
+
+### Boosting:
+#### sklearn:
+![NOTE!](some_img/boost_sklearn.PNG)
+
+#### lightGBM:
+![NOTE!](some_img/boost_lgb.PNG)
+
+### Stacking:
+![NOTE!](some_img/stacking.PNG)
