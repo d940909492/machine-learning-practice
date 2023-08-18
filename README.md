@@ -28,3 +28,9 @@
 
 ### Stacking:
 ![NOTE!](some_img/stacking.PNG)
+
+### SVM:
+
+Not final result,still working
+
+![NOTE!](some_img/svm_bad.PNG)
