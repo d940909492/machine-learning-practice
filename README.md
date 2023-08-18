@@ -30,7 +30,8 @@
 ![NOTE!](some_img/stacking.PNG)
 
 ### SVM:
+#### svc-linear
+![NOTE!](some_img/svm_linear.PNG)
 
-Not final result,still working
-
+This is a failed model
 ![NOTE!](some_img/svm_bad.PNG)
