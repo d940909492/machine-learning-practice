@@ -33,5 +33,8 @@
 #### svc-linear
 ![NOTE!](some_img/svm_linear.PNG)
 
+#### svc-rbf
+![NOTE!](some_img/svm_rbf.PNG)
+
 This is a failed model
-![NOTE!](some_img/svm_bad.PNG)
+![NOTE!](some_img/svm__bad.PNG)
