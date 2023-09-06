@@ -1,0 +1,29 @@
+{
+    "escape": {
+        "checkpoints": [
+            {
+                "steps": 141302,
+                "file_path": "results\\test1\\escape\\escape-141302.onnx",
+                "reward": -9.968956756835718,
+                "creation_time": 1693934279.059703,
+                "auxillary_file_paths": [
+                    "results\\test1\\escape\\escape-141302.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 141302,
+            "file_path": "results\\test1\\escape.onnx",
+            "reward": -9.968956756835718,
+            "creation_time": 1693934279.059703,
+            "auxillary_file_paths": [
+                "results\\test1\\escape\\escape-141302.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "escape": {
+        "checkpoints": [
+            {
+                "steps": 499941,
+                "file_path": "results\\test_one_zombie\\escape\\escape-499941.onnx",
+                "reward": 18.02720199584961,
+                "creation_time": 1693937725.5980625,
+                "auxillary_file_paths": [
+                    "results\\test_one_zombie\\escape\\escape-499941.pt"
+                ]
+            },
+            {
+                "steps": 500005,
+                "file_path": "results\\test_one_zombie\\escape\\escape-500005.onnx",
+                "reward": 18.02720199584961,
+                "creation_time": 1693937725.6502259,
+                "auxillary_file_paths": [
+                    "results\\test_one_zombie\\escape\\escape-500005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500005,
+            "file_path": "results\\test_one_zombie\\escape.onnx",
+            "reward": 18.02720199584961,
+            "creation_time": 1693937725.6502259,
+            "auxillary_file_paths": [
+                "results\\test_one_zombie\\escape\\escape-500005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
